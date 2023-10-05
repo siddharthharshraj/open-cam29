@@ -30,9 +30,9 @@ All captured images and recorded videos are stored locally using IndexedDB. User
 
 ## How to Run the App
 
-1. Clone the repository: `git clone https://github.com/your-username/open-cam29.git`
+1. Clone the repository: `git clone https://github.com/siddharthharshraj/open-cam29.git`
 
-2. Open the project directory: `cd Open-Cam`
+2. Open the project directory: `cd open-cam29`
 
 3. Open `index.html` in your preferred web browser.
 
